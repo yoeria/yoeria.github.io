@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: GH-Pages branch
+url: "https://yoeria.github.io"
 baseurl: https://yoeria.github.io/
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -11,20 +11,19 @@ remote_theme: pmarsceill/just-the-docs
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description:
 author:
   name:
   email:
   twitter: # twitter username without the @ symbol
 social:
-  name: Hydra Template
+  name: 
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
 
 # -----
 # Build
 
-timezone: Etc/UTC
+timezone: Europe/Amsterdam
 
 collections:
   staff_members:

@@ -37,13 +37,13 @@ Hydra was built with [Jekyll](http://jekyllrb.com/) version 3.3.1, but should su
 Install the dependencies with [Bundler](http://bundler.io/):
 
 ~~~bash
-$ bundle install
+bundle install
 ~~~
 
 Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
 ~~~bash
-$ bundle exec jekyll serve
+bundle exec jekyll serve
 ~~~
 
 ## Editing
