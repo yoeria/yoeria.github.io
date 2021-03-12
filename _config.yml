@@ -1,6 +1,5 @@
 ---
 title: Brainshelf
-theme: just-the-docs
 timezone: UTC
 collections:
   posts:
@@ -9,6 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
+theme: just-the-docs
 description: A knowledge storing site
 baseurl: "/"
 url: https://yoeria.github.io
