@@ -1,5 +1,6 @@
 ---
 title: Brainshelf
+theme: just-the-docs
 timezone: UTC
 collections:
   posts:
